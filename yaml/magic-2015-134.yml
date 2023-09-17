@@ -1,0 +1,115 @@
+---
+object: card
+id: e92cc35d-4e97-4be2-8c53-cce68c3374ca
+oracle_id: 68e12748-9a7b-4e99-a6de-be097a269342
+multiverse_ids:
+- 383204
+mtgo_id: 53440
+mtgo_foil_id: 53441
+tcgplayer_id: 91063
+cardmarket_id: 267511
+name: Chandra, Pyromaster
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/e92cc35d-4e97-4be2-8c53-cce68c3374ca
+scryfall_uri: https://scryfall.com/card/m15/134/chandra-pyromaster?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.jpg?1562796265
+  normal: https://cards.scryfall.io/normal/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.jpg?1562796265
+  large: https://cards.scryfall.io/large/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.jpg?1562796265
+  png: https://cards.scryfall.io/png/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.png?1562796265
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.jpg?1562796265
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e92cc35d-4e97-4be2-8c53-cce68c3374ca.jpg?1562796265
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Legendary Planeswalker — Chandra
+oracle_text: |-
+  +1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker's controller controls. That creature can't block this turn.
+  0: Exile the top card of your library. You may play it this turn.
+  −7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.
+loyalty: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e92cc35d-4e97-4be2-8c53-cce68c3374ca/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68e12748-9a7b-4e99-a6de-be097a269342&unique=prints
+collector_number: '134'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Winona Nelson
+artist_ids:
+- e45fe8d3-75d6-42c9-a2df-e945ad81ea27
+illustration_id: 8606957d-c0fc-4c93-8f7b-f32f0aa95ea6
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7764
+penny_rank: 324
+prices:
+  usd: '0.63'
+  usd_foil: '6.29'
+  usd_etched: 
+  eur: '0.55'
+  eur_foil: '2.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383204
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra%2C+Pyromaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra%2C+Pyromaster&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chandra%2C+Pyromaster
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91063?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Pyromaster&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53440?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

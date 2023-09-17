@@ -1,0 +1,114 @@
+---
+object: card
+id: 12e29b2b-5fe3-4dee-b247-10cd139fe2d0
+oracle_id: 11fd2650-2150-4e62-8b64-e820d734a231
+multiverse_ids:
+- 383195
+mtgo_id: 53388
+mtgo_foil_id: 53389
+tcgplayer_id: 91122
+cardmarket_id: 267740
+name: Borderland Marauder
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/12e29b2b-5fe3-4dee-b247-10cd139fe2d0
+scryfall_uri: https://scryfall.com/card/m15/131/borderland-marauder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.jpg?1562782869
+  normal: https://cards.scryfall.io/normal/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.jpg?1562782869
+  large: https://cards.scryfall.io/large/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.jpg?1562782869
+  png: https://cards.scryfall.io/png/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.png?1562782869
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.jpg?1562782869
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/12e29b2b-5fe3-4dee-b247-10cd139fe2d0.jpg?1562782869
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Human Warrior
+oracle_text: Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn.
+power: '1'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/12e29b2b-5fe3-4dee-b247-10cd139fe2d0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A11fd2650-2150-4e62-8b64-e820d734a231&unique=prints
+collector_number: '131'
+digital: false
+rarity: common
+flavor_text: Though she is rightly feared, there are relatively few tales of her deeds
+  in battle, for few survive her raids.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: 5e7b6d7b-1954-4adf-a9f5-f68e1394141d
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16174
+penny_rank: 7813
+prices:
+  usd: '0.08'
+  usd_foil: '0.36'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383195
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Borderland+Marauder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Borderland+Marauder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Borderland+Marauder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91122?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Borderland+Marauder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53388?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

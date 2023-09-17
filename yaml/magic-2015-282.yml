@@ -1,0 +1,116 @@
+---
+object: card
+id: 3b625203-6c50-4b14-928c-6b0aec1375a2
+oracle_id: 2f5bf099-2e01-4e1c-9ebf-0ce0ac66939e
+multiverse_ids:
+- 383162
+mtgo_id: 53889
+mtgo_foil_id: 53890
+tcgplayer_id: 90900
+cardmarket_id: 268070
+name: Centaur Courser
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/3b625203-6c50-4b14-928c-6b0aec1375a2
+scryfall_uri: https://scryfall.com/card/m15/282/centaur-courser?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.jpg?1562785405
+  normal: https://cards.scryfall.io/normal/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.jpg?1562785405
+  large: https://cards.scryfall.io/large/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.jpg?1562785405
+  png: https://cards.scryfall.io/png/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.png?1562785405
+  art_crop: https://cards.scryfall.io/art_crop/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.jpg?1562785405
+  border_crop: https://cards.scryfall.io/border_crop/front/3/b/3b625203-6c50-4b14-928c-6b0aec1375a2.jpg?1562785405
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Centaur Warrior
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3b625203-6c50-4b14-928c-6b0aec1375a2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2f5bf099-2e01-4e1c-9ebf-0ce0ac66939e&unique=prints
+collector_number: '282'
+digital: false
+rarity: common
+flavor_text: |-
+  "The centaurs are truly free. Never will they be tamed by temptation or controlled by fear. They live in total harmony, a feat not yet achieved by our kind."
+  —Ramal, sage of Westgate
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: a4cf897d-8da5-4d63-97dc-d717b4392acb
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- starterdeck
+edhrec_rank: 13689
+penny_rank: 10217
+prices:
+  usd: '0.06'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383162
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Centaur+Courser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Centaur+Courser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Centaur+Courser
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90900?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Centaur+Courser&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53889?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

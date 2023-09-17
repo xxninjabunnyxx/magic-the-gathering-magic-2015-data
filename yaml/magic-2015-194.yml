@@ -1,0 +1,115 @@
+---
+object: card
+id: 47227cfa-4cef-4874-b331-d2f628f29dae
+oracle_id: 032ec6e2-6cc3-4a97-9cc7-3233f5e11904
+multiverse_ids:
+- 383359
+mtgo_id: 53606
+mtgo_foil_id: 53607
+tcgplayer_id: 90864
+cardmarket_id: 267205
+name: Reclamation Sage
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/47227cfa-4cef-4874-b331-d2f628f29dae
+scryfall_uri: https://scryfall.com/card/m15/194/reclamation-sage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.jpg?1562786302
+  normal: https://cards.scryfall.io/normal/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.jpg?1562786302
+  large: https://cards.scryfall.io/large/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.jpg?1562786302
+  png: https://cards.scryfall.io/png/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.png?1562786302
+  art_crop: https://cards.scryfall.io/art_crop/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.jpg?1562786302
+  border_crop: https://cards.scryfall.io/border_crop/front/4/7/47227cfa-4cef-4874-b331-d2f628f29dae.jpg?1562786302
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Elf Shaman
+oracle_text: When Reclamation Sage enters the battlefield, you may destroy target
+  artifact or enchantment.
+power: '2'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/47227cfa-4cef-4874-b331-d2f628f29dae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A032ec6e2-6cc3-4a97-9cc7-3233f5e11904&unique=prints
+collector_number: '194'
+digital: false
+rarity: uncommon
+flavor_text: '"What was once formed by masons, shaped by smiths, or given life by
+  mages, I will return to the embrace of the earth."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 9577f9db-43cb-4200-89a3-77d69005d2e0
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 107
+penny_rank: 1452
+prices:
+  usd: '0.22'
+  usd_foil: '2.07'
+  usd_etched: 
+  eur: '0.24'
+  eur_foil: '1.79'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383359
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reclamation+Sage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reclamation+Sage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reclamation+Sage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90864?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reclamation+Sage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53606?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

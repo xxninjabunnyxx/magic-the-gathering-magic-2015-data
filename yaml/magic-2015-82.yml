@@ -1,0 +1,113 @@
+---
+object: card
+id: 94efe426-0fb2-4a24-9b50-914e48105b57
+oracle_id: 06e2ce8e-7341-4448-8625-cb1574eb179d
+multiverse_ids:
+- 383429
+mtgo_id: 53496
+mtgo_foil_id: 53497
+tcgplayer_id: 90845
+cardmarket_id: 267191
+name: Void Snare
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/94efe426-0fb2-4a24-9b50-914e48105b57
+scryfall_uri: https://scryfall.com/card/m15/82/void-snare?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143
+  normal: https://cards.scryfall.io/normal/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143
+  large: https://cards.scryfall.io/large/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143
+  png: https://cards.scryfall.io/png/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.png?1562791143
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/94efe426-0fb2-4a24-9b50-914e48105b57.jpg?1562791143
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Return target nonland permanent to its owner's hand.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/94efe426-0fb2-4a24-9b50-914e48105b57/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A06e2ce8e-7341-4448-8625-cb1574eb179d&unique=prints
+collector_number: '82'
+digital: false
+rarity: common
+flavor_text: |-
+  "I've tried so many variations on how to get rid of annoying things that it's hard to decide which one I like best."
+  —Ashurel, voidmage
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zack Stella
+artist_ids:
+- 17bc7f55-958b-43f4-bb40-09746d05b3f9
+illustration_id: e4ec3e67-1ba3-4c27-af3c-0c54fb37554d
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8710
+penny_rank: 4379
+prices:
+  usd: '0.12'
+  usd_foil: '12.48'
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: '3.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Void+Snare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Void+Snare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Void+Snare
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90845?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Void+Snare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53496?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

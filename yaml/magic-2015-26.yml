@@ -1,0 +1,125 @@
+---
+object: card
+id: 3a74f052-05f7-4e5e-a765-7882a00d0f6a
+oracle_id: 5b2364d7-a811-4595-a1b4-224c70555ffa
+multiverse_ids:
+- 383356
+mtgo_id: 53738
+mtgo_foil_id: 53739
+tcgplayer_id: 90960
+cardmarket_id: 267532
+name: Raise the Alarm
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/3a74f052-05f7-4e5e-a765-7882a00d0f6a
+scryfall_uri: https://scryfall.com/card/m15/26/raise-the-alarm?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.jpg?1562785350
+  normal: https://cards.scryfall.io/normal/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.jpg?1562785350
+  large: https://cards.scryfall.io/large/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.jpg?1562785350
+  png: https://cards.scryfall.io/png/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.png?1562785350
+  art_crop: https://cards.scryfall.io/art_crop/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.jpg?1562785350
+  border_crop: https://cards.scryfall.io/border_crop/front/3/a/3a74f052-05f7-4e5e-a765-7882a00d0f6a.jpg?1562785350
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Create two 1/1 white Soldier creature tokens.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 3a74f052-05f7-4e5e-a765-7882a00d0f6a
+  component: combo_piece
+  name: Raise the Alarm
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/3a74f052-05f7-4e5e-a765-7882a00d0f6a
+- object: related_card
+  id: faf83070-573c-4a06-9a2d-1263d7600b66
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/faf83070-573c-4a06-9a2d-1263d7600b66
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3a74f052-05f7-4e5e-a765-7882a00d0f6a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b2364d7-a811-4595-a1b4-224c70555ffa&unique=prints
+collector_number: '26'
+digital: false
+rarity: common
+flavor_text: Like blinking or breathing, responding to an alarm is an involuntary
+  reflex.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+illustration_id: 9c7b440d-bec8-41d4-9a17-bbd31f7ef3f5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3554
+penny_rank: 1223
+prices:
+  usd: '0.03'
+  usd_foil: '0.30'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '1.58'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383356
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Raise+the+Alarm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Raise+the+Alarm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Raise+the+Alarm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90960?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Raise+the+Alarm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53738?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

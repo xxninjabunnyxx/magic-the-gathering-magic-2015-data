@@ -1,0 +1,117 @@
+---
+object: card
+id: b91725e5-9e36-461b-b523-8490418107f2
+oracle_id: 13279222-422d-4447-9451-2463b0c714c6
+multiverse_ids:
+- 383165
+mtgo_id: 53897
+mtgo_foil_id: 53898
+tcgplayer_id: 90901
+cardmarket_id: 268071
+name: Garruk's Packleader
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/b91725e5-9e36-461b-b523-8490418107f2
+scryfall_uri: https://scryfall.com/card/m15/283/garruks-packleader?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.jpg?1562793232
+  normal: https://cards.scryfall.io/normal/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.jpg?1562793232
+  large: https://cards.scryfall.io/large/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.jpg?1562793232
+  png: https://cards.scryfall.io/png/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.png?1562793232
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.jpg?1562793232
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b91725e5-9e36-461b-b523-8490418107f2.jpg?1562793232
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Beast
+oracle_text: Whenever another creature with power 3 or greater enters the battlefield
+  under your control, you may draw a card.
+power: '4'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b91725e5-9e36-461b-b523-8490418107f2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A13279222-422d-4447-9451-2463b0c714c6&unique=prints
+collector_number: '283'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "He has learned much in his long years. And unlike selfish humans, he's willing to share."
+  —Garruk Wildspeaker
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: f5128698-bbe0-4c23-bfda-60280d5245e3
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- starterdeck
+edhrec_rank: 1972
+penny_rank: 4267
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383165
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Garruk%27s+Packleader&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Garruk%27s+Packleader&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Garruk%27s+Packleader
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/90901?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Garruk%27s+Packleader&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53897?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

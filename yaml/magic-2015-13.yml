@@ -1,0 +1,115 @@
+---
+object: card
+id: 90488074-730c-47a3-9a4b-9fec1da775ad
+oracle_id: 5c9d814b-4257-47bc-a1df-c3480bc038ba
+multiverse_ids:
+- 383253
+mtgo_id: 53582
+mtgo_foil_id: 53583
+tcgplayer_id: 91282
+cardmarket_id: 267839
+name: Geist of the Moors
+lang: en
+released_at: '2014-07-18'
+uri: https://api.scryfall.com/cards/90488074-730c-47a3-9a4b-9fec1da775ad
+scryfall_uri: https://scryfall.com/card/m15/13/geist-of-the-moors?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.jpg?1588272222
+  normal: https://cards.scryfall.io/normal/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.jpg?1588272222
+  large: https://cards.scryfall.io/large/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.jpg?1588272222
+  png: https://cards.scryfall.io/png/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.png?1588272222
+  art_crop: https://cards.scryfall.io/art_crop/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.jpg?1588272222
+  border_crop: https://cards.scryfall.io/border_crop/front/9/0/90488074-730c-47a3-9a4b-9fec1da775ad.jpg?1588272222
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Creature — Spirit
+oracle_text: Flying
+power: '3'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set: m15
+set_name: Magic 2015
+set_type: core
+set_uri: https://api.scryfall.com/sets/6ce49890-3b37-42a5-8932-dbeef1d7b62c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m15?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/90488074-730c-47a3-9a4b-9fec1da775ad/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5c9d814b-4257-47bc-a1df-c3480bc038ba&unique=prints
+collector_number: '13'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "The battle is won. There's work to be done. / The Blessed Sleep must wait. / A fiend is about. It stalks the devout. / I'll save them from my fate."
+  —"The Good Geist's Vow"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Aaron Miller
+artist_ids:
+- fc021f3d-773a-4706-bbe7-f602324f511f
+illustration_id: 202d5ac4-9478-4602-9a99-d0de340a723d
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23644
+prices:
+  usd: '0.02'
+  usd_foil: '0.37'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.29'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383253
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Geist+of+the+Moors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Geist+of+the+Moors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Geist+of+the+Moors
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/91282?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Geist+of+the+Moors&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53582?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
